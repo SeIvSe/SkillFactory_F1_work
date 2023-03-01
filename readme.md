@@ -27,8 +27,6 @@
 Восстановить модули: `npm install`   
 Запуск СЕРВЕРА DevServer: `npm run start`  
 Запуск build сборки: `npm run build`  
-Посмотреть проект в работе:
-https://seivse.github.io/SkillFactory_F1_work/
 
 
 
