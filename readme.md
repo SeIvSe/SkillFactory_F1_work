@@ -22,7 +22,7 @@
 
 
 # Установка и запуск среды разработки React + Webpack
-Клонировать репозиторий `git clone https://github.com/seivse/SkillFactory_F1_homework.git`  
+Клонировать репозиторий `git clone https://github.com/seivse/SkillFactory_F1_work.git`  
 В консоли перейти в папку проекта
 Восстановить модули: `npm install`   
 Запуск СЕРВЕРА DevServer: `npm run start`  
